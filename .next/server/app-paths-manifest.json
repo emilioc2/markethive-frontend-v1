@@ -1,0 +1,21 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/stores/[id]/products/page": "app/dashboard/stores/[id]/products/page.js",
+  "/business/login/page": "app/business/login/page.js",
+  "/dashboard/stores/[id]/page": "app/dashboard/stores/[id]/page.js",
+  "/business/register/page": "app/business/register/page.js",
+  "/dashboard/stores/[id]/products/new/page": "app/dashboard/stores/[id]/products/new/page.js",
+  "/dashboard/stores/new/page": "app/dashboard/stores/new/page.js",
+  "/dashboard/stores/[id]/products/[productId]/edit/page": "app/dashboard/stores/[id]/products/[productId]/edit/page.js",
+  "/store/[subdomain]/checkout/success/page": "app/store/[subdomain]/checkout/success/page.js",
+  "/page": "app/page.js",
+  "/store/[subdomain]/checkout/page": "app/store/[subdomain]/checkout/page.js",
+  "/store/[subdomain]/orders/page": "app/store/[subdomain]/orders/page.js",
+  "/store/[subdomain]/cart/page": "app/store/[subdomain]/cart/page.js",
+  "/store/[subdomain]/product/[productId]/page": "app/store/[subdomain]/product/[productId]/page.js",
+  "/store/[subdomain]/register/page": "app/store/[subdomain]/register/page.js",
+  "/store/[subdomain]/orders/[orderId]/page": "app/store/[subdomain]/orders/[orderId]/page.js",
+  "/store/[subdomain]/login/page": "app/store/[subdomain]/login/page.js",
+  "/store/[subdomain]/page": "app/store/[subdomain]/page.js"
+}
