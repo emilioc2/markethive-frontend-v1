@@ -4,13 +4,7 @@
   "installCommand": "npm install",
   "framework": "nextjs",
   "env": {
-    "NEXT_PUBLIC_API_URL": {
-      "description": "Backend API URL",
-      "value": "https://markethive-backend.onrender.com/api"
-    },
-    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": {
-      "description": "Stripe publishable key"
-    }
+    "NEXT_PUBLIC_API_URL": "https://markethive-backend.onrender.com/api"
   },
   "regions": ["iad1"],
   "rewrites": [
